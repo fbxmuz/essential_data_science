@@ -1,1 +1,1 @@
-# data_science
+# essential data_science
